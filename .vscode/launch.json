@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProgescodeApplication<progescode>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.progescode.progescode.ProgescodeApplication",
+            "projectName": "progescode",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
